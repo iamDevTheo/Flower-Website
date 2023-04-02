@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.upstairs {
+   display: flex;
+   justify-content: space-between;
+
+}
+
+.ict {
+    display: flex;
+}
